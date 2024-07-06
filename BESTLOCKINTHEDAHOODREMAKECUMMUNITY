@@ -20,7 +20,7 @@ corner.Parent = mainFrame
 -- Create Title
 local title = Instance.new("TextLabel")
 title.Parent = mainFrame
-title.Text = "Leak By Glxckdev"
+title.Text = "Leak By Øzen"
 title.Font = Enum.Font.SourceSansBold
 title.TextSize = 24
 title.TextColor3 = Color3.fromRGB(255, 255, 255) -- White text
