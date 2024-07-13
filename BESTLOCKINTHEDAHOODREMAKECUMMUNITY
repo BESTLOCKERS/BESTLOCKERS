@@ -20,7 +20,7 @@ corner.Parent = mainFrame
 -- Create Title
 local title = Instance.new("TextLabel")
 title.Parent = mainFrame
-title.Text = "Leak By Øzen"
+title.Text = "Develop By Øzen"
 title.Font = Enum.Font.SourceSansBold
 title.TextSize = 24
 title.TextColor3 = Color3.fromRGB(255, 255, 255) -- White text
@@ -83,7 +83,7 @@ end)
 -- Create Credits Text
 local creditsText = Instance.new("TextLabel")
 creditsText.Parent = mainFrame
-creditsText.Text = "Credits: All credits go to Øzen for leaking"
+creditsText.Text = "Credits: All Credits Go To Øzen For Coding The Lock/Resolver"
 creditsText.Font = Enum.Font.SourceSans
 creditsText.TextSize = 18
 creditsText.TextColor3 = Color3.fromRGB(255, 255, 255) -- White text
